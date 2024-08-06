@@ -1,0 +1,9 @@
+Client
+- Log in to server
+- ENTER Name
+- DRAW xxx CLEAR EXIT
+
+SERVER
+- Check Name Client for name that exist
+- Give The color for client
+- Respond by draw client Input
